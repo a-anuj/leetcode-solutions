@@ -3,12 +3,17 @@ class Solution(object):
         res = nums[0]
         l = 0
         numSet = set()
+        curSum=0
 
         for r in range(len(nums)):
             while nums[r] in numSet:
+                curSum-=nums[l]
                 numSet.remove(nums[l])
                 l+=1
+                
             numSet.add(nums[r])
+            curSum += nums[r]
 
-            res = max(res,sum(numSet))
+            res = max(res,curSum)
         return res
+
