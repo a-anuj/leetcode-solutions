@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/a-anuj/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/a-anuj/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/a-anuj/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,4 +147,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/a-anuj/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/a-anuj/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
