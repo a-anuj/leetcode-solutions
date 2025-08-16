@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/a-anuj/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
