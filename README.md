@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a-anuj/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a-anuj/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -66,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a-anuj/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a-anuj/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## String
@@ -186,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
