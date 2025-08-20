@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/a-anuj/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
