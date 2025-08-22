@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
