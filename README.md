@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -201,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
