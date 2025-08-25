@@ -1,5 +1,7 @@
 class Solution(object):
     def check(self, nums):
+        
+        """ Brute Force
         if nums == sorted(nums):
             return True
         for i in range(1,len(nums)):
@@ -11,4 +13,15 @@ class Solution(object):
                     return True
 
         return False
+        """
+
+        n = len(nums)
+        count = 0
+        for i in range(n):
+            if nums[i] > nums[(i+1)%n]:
+                count+=1
+            if count>1:
+                return False
+        return True
+
 
