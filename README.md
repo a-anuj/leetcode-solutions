@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/a-anuj/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/a-anuj/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
