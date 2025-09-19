@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/a-anuj/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/a-anuj/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/a-anuj/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/a-anuj/leetcode-solutions/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/a-anuj/leetcode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/a-anuj/leetcode-solutions/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
