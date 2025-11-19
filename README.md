@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/a-anuj/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-anuj/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Queue
 |  |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-top-travellers](https://github.com/a-anuj/leetcode-solutions/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/a-anuj/leetcode-solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/a-anuj/leetcode-solutions/tree/master/1734-bank-account-summary-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
