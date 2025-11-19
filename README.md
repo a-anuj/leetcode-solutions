@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/a-anuj/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/a-anuj/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Queue
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a-anuj/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
