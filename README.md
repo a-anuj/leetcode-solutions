@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/a-anuj/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/a-anuj/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/a-anuj/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
 | ------- |
