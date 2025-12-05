@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-anuj/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-anuj/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/a-anuj/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/a-anuj/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/a-anuj/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-anuj/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/a-anuj/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
