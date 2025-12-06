@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/a-anuj/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/a-anuj/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/a-anuj/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/a-anuj/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/a-anuj/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2032-largest-odd-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/a-anuj/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
