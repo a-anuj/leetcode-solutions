@@ -1,14 +1,19 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        temp = ""
-        alpha = "abcdefghijklmnopqrstuvwxyz0123456789"
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        string = ""
         for i in s:
-            if i.lower() in alpha:
-                temp+=i.lower()
+            if i.isalnum():
+                string+=i.lower()
         
-        reverse = temp[::-1]
-        if reverse == temp:
-            return True
-        else:
-            return False
-        
+        left = 0
+        right = len(string)-1
+
+        while left<right:
+            if string[left]==string[right]:
+                left+=1
+                right-=1
+            
+            else:
+                return False
+
+        return True
