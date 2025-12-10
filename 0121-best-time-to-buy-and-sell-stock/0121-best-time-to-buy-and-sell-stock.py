@@ -1,10 +1,12 @@
-class Solution(object):
-    def maxProfit(self, prices):
-        answer = 0
-        minval = max(prices)
-        for i,num in enumerate(prices):
-            if num<minval:
-                minval = num
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        minVal = float('inf')
+        maxProfit = 0
+
+        for i in prices:
+            if i<minVal:
+                minVal = i
             else:
-                answer = max(answer,num-minval)
-        return answer
+                maxProfit = max(maxProfit,i-minVal)
+
+        return maxProfit
