@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/a-anuj/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/a-anuj/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/a-anuj/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/a-anuj/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/a-anuj/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/a-anuj/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/a-anuj/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/a-anuj/leetcode-solutions/tree/master/0742-to-lower-case) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a-anuj/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/a-anuj/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
