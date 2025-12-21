@@ -1,24 +1,14 @@
-class Solution(object):
-    def mySqrt(self, x):
-        if(x<2):
-            return x
-
-        left = 1
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        left = 0
         right = x
 
-        while(left<=right):
-            
+        while left <= right:
             mid = (left+right)//2
-            square = mid * mid
-
-            if(square == x):
+            if mid*mid == x:
                 return mid
-
-            elif(square<x):
+            elif mid*mid < x:
                 left = mid+1
-
             else:
                 right = mid-1
-
         return right
-        
