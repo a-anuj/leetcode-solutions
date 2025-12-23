@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/a-anuj/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/a-anuj/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/a-anuj/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/a-anuj/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/a-anuj/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Stack
 |  |
 | ------- |
