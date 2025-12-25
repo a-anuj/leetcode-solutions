@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/a-anuj/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/a-anuj/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/a-anuj/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/a-anuj/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/a-anuj/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/a-anuj/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/a-anuj/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/a-anuj/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/a-anuj/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
