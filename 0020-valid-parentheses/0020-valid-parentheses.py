@@ -1,14 +1,20 @@
-class Solution(object):
-    def isValid(self, s):
-        storage = {"(":")","{":"}","[":"]"}
+class Solution:
+    def isValid(self, s: str) -> bool:
+        store = {"(":")","[":"]","{":"}"}
+
         stack = []
+        opening = "([{"
 
-        for i in s:
-            if i in storage:
-                stack.append(storage[i])
+        for i in range(len(s)):
+            if s[i] in opening:
+                stack.append(s[i])
             else:
-                if not stack or stack.pop() != i:
+                if len(stack)==0:
                     return False
-
-        return not stack
-        
+                val = stack.pop()
+                if store.get(val) != s[i]:
+                    return False
+        if len(stack)==0:
+            return True
+        else:
+            return False
