@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
@@ -454,5 +457,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
