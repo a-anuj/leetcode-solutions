@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/a-anuj/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-anuj/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/a-anuj/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/a-anuj/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/a-anuj/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/a-anuj/leetcode-solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/a-anuj/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -463,4 +465,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/a-anuj/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
