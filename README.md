@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/a-anuj/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/a-anuj/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/a-anuj/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1408-string-matching-in-an-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
