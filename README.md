@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/a-anuj/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/a-anuj/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/a-anuj/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/a-anuj/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/a-anuj/leetcode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/a-anuj/leetcode-solutions/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/a-anuj/leetcode-solutions/tree/master/1625-group-sold-products-by-the-date) |
