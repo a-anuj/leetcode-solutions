@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-top-travellers](https://github.com/a-anuj/leetcode-solutions/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/a-anuj/leetcode-solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/a-anuj/leetcode-solutions/tree/master/1734-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/a-anuj/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
