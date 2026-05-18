@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2346-largest-3-same-digit-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/a-anuj/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/a-anuj/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/a-anuj/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
