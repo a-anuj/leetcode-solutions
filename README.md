@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/a-anuj/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/a-anuj/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/a-anuj/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/a-anuj/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/a-anuj/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/a-anuj/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/a-anuj/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/a-anuj/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/a-anuj/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/a-anuj/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/a-anuj/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/a-anuj/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/a-anuj/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2833-furthest-point-from-origin](https://github.com/a-anuj/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
