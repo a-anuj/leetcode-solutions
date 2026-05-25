@@ -1,14 +1,13 @@
-class Solution(object):
-    def fizzBuzz(self, n):
-        answer = [0 for i in range(n)]
+class Solution:
+    def fizzBuzz(self, n: int) -> List[str]:
+        temp = []
         for i in range(1,n+1):
             if i%3==0 and i%5==0:
-                answer[i-1] = "FizzBuzz"
+                temp.append("FizzBuzz")
             elif i%3==0:
-                answer[i-1] = "Fizz"
+                temp.append("Fizz")
             elif i%5==0:
-                answer[i-1] = "Buzz"
+                temp.append("Buzz")
             else:
-                answer[i-1] = str(i)
-        return answer
-        
+                temp.append(str(i))
+        return temp
