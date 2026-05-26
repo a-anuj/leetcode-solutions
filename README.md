@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/a-anuj/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/a-anuj/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/a-anuj/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/a-anuj/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/a-anuj/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/a-anuj/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/a-anuj/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/a-anuj/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/a-anuj/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
