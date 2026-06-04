@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/a-anuj/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
 ## Geometry
 |  |
 | ------- |
