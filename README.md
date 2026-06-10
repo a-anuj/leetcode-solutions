@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-anuj/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/a-anuj/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/a-anuj/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a-anuj/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/a-anuj/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/a-anuj/leetcode-solutions/tree/master/0135-candy) |
 | [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/a-anuj/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
