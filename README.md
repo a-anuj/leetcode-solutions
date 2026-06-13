@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-anuj/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/a-anuj/leetcode-solutions/tree/master/0135-candy) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/a-anuj/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/a-anuj/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/a-anuj/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/a-anuj/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/a-anuj/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0100-same-tree) |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0064-minimum-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/a-anuj/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/a-anuj/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 ## Geometry
 |  |
 | ------- |
