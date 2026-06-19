@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/a-anuj/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/a-anuj/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
