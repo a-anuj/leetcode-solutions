@@ -8,4 +8,4 @@ class Solution:
                 return [i,seen[diff]]
             else:
                 seen[nums[i]] = i
-        return -1
+        return -1                       
