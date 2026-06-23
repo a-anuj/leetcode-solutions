@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/a-anuj/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/a-anuj/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/a-anuj/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a-anuj/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/a-anuj/leetcode-solutions/tree/master/0198-house-robber) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/a-anuj/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/a-anuj/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/a-anuj/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/a-anuj/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/a-anuj/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
