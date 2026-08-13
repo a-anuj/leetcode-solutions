@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/a-anuj/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/a-anuj/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
@@ -613,4 +616,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/a-anuj/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
