@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/a-anuj/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/a-anuj/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/a-anuj/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0792-binary-search) |
 | [0812-largest-triangle-area](https://github.com/a-anuj/leetcode-solutions/tree/master/0812-largest-triangle-area) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/a-anuj/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/a-anuj/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/a-anuj/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/a-anuj/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
