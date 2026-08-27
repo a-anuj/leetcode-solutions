@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/a-anuj/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/a-anuj/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/a-anuj/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/a-anuj/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/a-anuj/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/a-anuj/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/a-anuj/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/a-anuj/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/a-anuj/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/a-anuj/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/a-anuj/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/a-anuj/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -621,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/a-anuj/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/a-anuj/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/a-anuj/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Counting Sort
