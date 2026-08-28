@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/a-anuj/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/a-anuj/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/a-anuj/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/a-anuj/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/a-anuj/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/a-anuj/leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/a-anuj/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/a-anuj/leetcode-solutions/tree/master/0648-replace-words) |
 | [0742-to-lower-case](https://github.com/a-anuj/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/a-anuj/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/a-anuj/leetcode-solutions/tree/master/0648-replace-words) |
 ## Greedy
 |  |
 | ------- |
