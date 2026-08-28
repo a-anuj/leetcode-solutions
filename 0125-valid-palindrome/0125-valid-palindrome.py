@@ -1,15 +1,15 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        string = ""
-        for i in s:
-            if i.isalnum():
-                string += i.lower()
-        
         left = 0
-        right = len(string)-1
-
-        while left<=right:
-            if string[left]==string[right]:
+        right = len(s) - 1
+        while left < right:
+            while not s[left].isalnum() and left<right:
+                left += 1
+            
+            while not s[right].isalnum() and left < right:
+                right-=1
+            
+            if s[left].lower() == s[right].lower():
                 left+=1
                 right-=1
             else:
