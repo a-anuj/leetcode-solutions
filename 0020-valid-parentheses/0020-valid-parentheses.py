@@ -3,18 +3,19 @@ class Solution:
         store = {"(":")","[":"]","{":"}"}
 
         stack = []
-        opening = "([{"
+        opening = "({["
 
-        for i in range(len(s)):
-            if s[i] in opening:
-                stack.append(s[i])
+        for sym in s:
+            if sym in opening:
+                stack.append(sym)
             else:
-                if len(stack)==0:
+                if not stack:
                     return False
                 val = stack.pop()
-                if store.get(val) != s[i]:
+                if store[val] != sym:
                     return False
-        if len(stack)==0:
+        if not stack:
             return True
         else:
             return False
+        
