@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/a-anuj/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/a-anuj/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/a-anuj/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/a-anuj/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/a-anuj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1833-maximum-ice-cream-bars](https://github.com/a-anuj/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/a-anuj/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/a-anuj/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/a-anuj/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/a-anuj/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1408-string-matching-in-an-array](https://github.com/a-anuj/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/a-anuj/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/a-anuj/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/a-anuj/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/a-anuj/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/a-anuj/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Stack
 |  |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/a-anuj/leetcode-solutions/tree/master/0648-replace-words) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -576,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/a-anuj/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
