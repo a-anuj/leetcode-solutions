@@ -701,4 +701,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/a-anuj/leetcode-solutions/tree/master/1227-airplane-seat-assignment-probability) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/a-anuj/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
