@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/a-anuj/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0792-binary-search) |
 | [0812-largest-triangle-area](https://github.com/a-anuj/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0860-lemonade-change](https://github.com/a-anuj/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/a-anuj/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/a-anuj/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/a-anuj/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/a-anuj/leetcode-solutions/tree/master/0135-candy) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/a-anuj/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/a-anuj/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/a-anuj/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/a-anuj/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
