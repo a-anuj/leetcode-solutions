@@ -1,9 +1,14 @@
 class Solution(object):
     def majorityElement(self, nums):
-        n = len(nums)
-        set_n = set(nums)
-        for i in set_n:
-            if nums.count(i) > n/2:
-                return i
+        candidate = None
+        count = 0
 
-        
+        for num in nums:
+            if count == 0:
+                candidate = num
+                count += 1
+            elif candidate == num:
+                count += 1
+            else:
+                count -= 1
+        return candidate
