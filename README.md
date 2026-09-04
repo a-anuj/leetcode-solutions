@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/a-anuj/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/a-anuj/leetcode-solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/a-anuj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/a-anuj/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/a-anuj/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/a-anuj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/a-anuj/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/a-anuj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/a-anuj/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/a-anuj/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/a-anuj/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/a-anuj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/a-anuj/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/a-anuj/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/a-anuj/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/a-anuj/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/a-anuj/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/a-anuj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/a-anuj/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/a-anuj/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/a-anuj/leetcode-solutions/tree/master/0125-valid-palindrome) |
