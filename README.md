@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/a-anuj/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/a-anuj/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/a-anuj/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1227-airplane-seat-assignment-probability](https://github.com/a-anuj/leetcode-solutions/tree/master/1227-airplane-seat-assignment-probability) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/a-anuj/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/a-anuj/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/a-anuj/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -603,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/a-anuj/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/a-anuj/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/a-anuj/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [3226-minimum-number-game](https://github.com/a-anuj/leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Linked List
@@ -648,11 +652,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/a-anuj/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/a-anuj/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/a-anuj/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/a-anuj/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
