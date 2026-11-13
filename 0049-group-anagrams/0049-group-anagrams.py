@@ -1,9 +1,8 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap = defaultdict(list)
-
-        for i in range(len(strs)):
-            sortval = "".join(sorted(strs[i]))
-            hashmap[sortval].append(strs[i])
-        return list(hashmap.values())
+        store = defaultdict(list)
+        for i in strs:
+            key = "".join(sorted(i))
+            store[key].append(i)
+        return list(store.values())
