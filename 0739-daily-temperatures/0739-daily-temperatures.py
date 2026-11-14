@@ -1,11 +1,14 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
         result = [0] * len(temperatures)
+
         stack = []
 
-        for i in range(len(temperatures)):
-            while stack and temperatures[i] > temperatures[stack[-1]]:
-                prev = stack.pop()
-                result[prev] = i - prev
-            stack.append(i)
+        for index,temp in enumerate(temperatures):
+            while stack and temp > temperatures[stack[-1]]:
+                top = stack.pop()
+                result[top] = index-top
+            stack.append(index)
+        
         return result
+            
